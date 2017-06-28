@@ -25,16 +25,15 @@ Le développement tourne autour de 3 grandes parties
 ## L'inscription en ligne.
 site web permettant à un joueur de s'inscrire en ligne.
 le projet prévoit le principe suivant pour l'inscription en ligne.
-![acteurFluxInscription.png](https//github.com/odebb/sioCrawler/images/acteurFluxInscription.png)
-
+![acteurFluxInscription.png](https://github.com/odebb/sioCrawler/blob/master/images/acteurFluxInscription.png)
 
 ## sio crawler le jeu
-###le joueur possédera les fonctionnalités suivantes.
-![useCasePersonnage.png](https//github.com/odebb/sioCrawler/images/useCasePersonnage.png)
+### le joueur possédera les fonctionnalités suivantes.
+![useCasePersonnage.png](https://github.com/odebb/sioCrawler/blob/master/images/useCasePersonnage.png)
 
-###les classes développées.
-![diagrammeClassePersonnage.png](https//github.com/odebb/sioCrawler/images/diagrammeClassePersonnage.png)
+### les classes développées.
+![diagrammeClassePersonnage.png](https://github.com/odebb/sioCrawler/blob/master/images/diagrammeClassePersonnage.png)
 
 ## Sauvegarde du contexte 
 ### La sauvegarde du contexte se fera dans la base de données.
-![mcdSauvegarede.png](https//github.com/odebb/sioCrawler/images/mcdSauvegarde.png)
+![mcdSauvegarede.png](https://github.com/odebb/sioCrawler/blob/master/images/mcdSauvegarde.png)
