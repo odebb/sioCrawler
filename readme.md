@@ -25,7 +25,7 @@ Le développement tourne autour de 3 grandes parties
 ## L'inscription en ligne.
 site web permettant à un joueur de s'inscrire en ligne.
 le projet prévoit le principe suivant pour l'inscription en ligne.
-![acteurFluxInscription.png](https://github.com/odebb/sioCrawler/blob/master/images/acteurFluxInscription.png)
+![acteurFluxInscription.png](https://github.com/odebb/sioCrawler/blob/master/images/acteurFluxInscription.PNG)
 
 ## sio crawler le jeu
 ### le joueur possédera les fonctionnalités suivantes.
